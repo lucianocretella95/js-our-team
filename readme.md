@@ -12,7 +12,7 @@ Stampare in pagina, per ogni membro del team: nome, ruolo e immagine, come sempl
 Svolgere questa milestone grazie a una funzione può semplificarvi il lavoro per i bonus. La funzione riceve un oggetto e restituisce una stringa di HTML
 
 Bonus 1
-Trasformare il testo col percorso della foto in una immagine effettiva (in allegato txt).
+Trasformare il testo col percorso della foto in una immagine effettiva.
 
 bonus 2
 Organizzare i singoli membri in card/schede.
