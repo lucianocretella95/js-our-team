@@ -1,6 +1,6 @@
-Nome
-Ruolo
-Immagine
+Nome Ruolo Immagine
+
+
 
 Wayne Barnett
 Founder & CEO

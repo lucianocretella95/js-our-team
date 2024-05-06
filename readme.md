@@ -2,7 +2,7 @@ Utilizzando i dati forniti, creare un array di oggetti per rappresentare i membr
 Ogni membro è caratterizzato dalle seguenti informazioni: nome, ruolo e foto.
 
 M0
-Creare l’array di oggetti con le informazioni fornite (in allegato zip).
+Creare l’array di oggetti con le informazioni.
 
 M1
 Stampare su console, per ogni membro del team: il nome e il ruolo.
