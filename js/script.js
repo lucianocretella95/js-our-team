@@ -36,6 +36,7 @@ let team = [
   },
 ];
 
-for (let key in team) {
-  console.log(`${team.nome} ${team.ruolo}`);
+for (let i = 0; i < team.length; i++) {
+  const element = team[i];
+  console.log(`${element.nome} ${element.ruolo}`);
 }
